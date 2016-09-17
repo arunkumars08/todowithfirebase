@@ -1,0 +1,33 @@
+body {
+    font-family: Segoe UI;
+}
+.add-todo {
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+.todo-item {
+    padding: 10px;
+    margin: 5px 0;
+}
+.item-title {
+    text-align: center;
+    font-weight: 500;
+}
+.action-btns {
+    font-size: 11px;
+    vertical-align: middle;
+    line-height: 20px;
+    font-weight: 100;
+}
+.action-btns span {
+    margin-right: 5px;
+    cursor: pointer;
+}
+.action-btns span:hover {
+    border-bottom: 1px solid;
+}
+
+.complete {
+    background: GREEN;
+    color: #fff;
+}

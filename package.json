@@ -1,0 +1,22 @@
+{
+  "name": "todoappwithfirebase",
+  "version": "1.0.0",
+  "description": "To Do app that stores your todo things online in firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "keywords": [
+    "Todo",
+    "firebase"
+  ],
+  "author": "Arunkumar Srisailapathi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
